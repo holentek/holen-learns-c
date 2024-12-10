@@ -5,5 +5,5 @@
 
 int main(void)
 {
-    printf("Hello, World\n");
+    printf("Hello, World\n"); //TODO: #1 Never leave to-do's, it will be forgotten -some dude on the internet
 }
